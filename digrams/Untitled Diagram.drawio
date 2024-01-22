@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T20:34:50.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="HvWjZW4P0YVdicMsQSeQ" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-22T20:38:06.975Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="EBBTIswj_r0Y9lmWRYuM" version="22.1.18" type="github">
   <diagram name="Page-1" id="fbyWyDohdxApZYnzTR_g">
-    <mxGraphModel dx="2169" dy="2637" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1484" dy="1872" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,8 +235,8 @@
         <mxCell id="ASXQdHFdru1SNP_TVAUF-46" value="Renewable Energy Monitoring" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3875" y="-132" width="193" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="ASXQdHFdru1SNP_TVAUF-47" value="Mysteries of the Unforgotten System (Game)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3872" y="-1094" width="256" height="26" as="geometry" />
+        <mxCell id="ASXQdHFdru1SNP_TVAUF-47" value="UrbanEco Online System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3924" y="-1094" width="153" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ASXQdHFdru1SNP_TVAUF-48" value="User Account Management" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3872" y="-765" width="197" height="56" as="geometry" />
@@ -254,10 +254,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mjLE2KME49dsmdFMFY9E-1" value="EventOrganizer&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="3570" y="-61" width="30" height="60" as="geometry" />
+          <mxGeometry x="3617" y="-92" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mjLE2KME49dsmdFMFY9E-2" value="Event Scheduling and Management" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3849" y="-59.5" width="209" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mjLE2KME49dsmdFMFY9E-5" value="Administrator&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="3662" y="-849" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mjLE2KME49dsmdFMFY9E-6" value="Vendor&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="3660" y="-964" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mjLE2KME49dsmdFMFY9E-7" value="MaintenanceStaff&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="3662" y="-1079" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mjLE2KME49dsmdFMFY9E-9" value="Maintenance Request Management" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3884" y="-1043" width="211" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
